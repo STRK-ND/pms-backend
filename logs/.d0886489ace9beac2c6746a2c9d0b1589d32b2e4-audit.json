@@ -1,0 +1,70 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "D:\\Project Managemet System\\backend\\logs\\.d0886489ace9beac2c6746a2c9d0b1589d32b2e4-audit.json",
+    "files": [
+        {
+            "date": 1751284902980,
+            "name": "D:\\Project Managemet System\\backend\\logs\\app-2025-06-30.log",
+            "hash": "54d51cac794bb3d331808855e208f36878264a8ff8299ebe9eefba9279938862"
+        },
+        {
+            "date": 1751349146658,
+            "name": "D:\\Project Managemet System\\backend\\logs\\app-2025-07-01.log",
+            "hash": "cd917261868d0eb46490ea94c4877a2553d6dd019bcaaf8380612350cf1f4e67"
+        },
+        {
+            "date": 1751431762996,
+            "name": "D:\\Project Managemet System\\backend\\logs\\app-2025-07-02.log",
+            "hash": "cfed797f7a348586d5fc2976b60dfd64f15100b30156f347d83f078e95fe20d7"
+        },
+        {
+            "date": 1751517816645,
+            "name": "D:\\Project Managemet System\\backend\\logs\\app-2025-07-03.log",
+            "hash": "c2efc8514c0b36c4c79aab01129960a42814b9ebb37506843c69c3c09cacc08f"
+        },
+        {
+            "date": 1751604746199,
+            "name": "D:\\Project Managemet System\\backend\\logs\\app-2025-07-04.log",
+            "hash": "3f15bf69f746f7e70db205c9f9542eb6d7b9da3bdc2ac6b4b5eb77f0f6731889"
+        },
+        {
+            "date": 1751814982024,
+            "name": "D:\\Project Managemet System\\backend\\logs\\app-2025-07-06.log",
+            "hash": "14ccb3d6895f6c714a34887de2cdebbc32132d28b9c40906a1cb7b008b93472e"
+        },
+        {
+            "date": 1751862606507,
+            "name": "D:\\Project Managemet System\\backend\\logs\\app-2025-07-07.log",
+            "hash": "8e5d214857c33b0fcaa65003a0763ea3775c11ef11dfa0181ced22e2f1d381ee"
+        },
+        {
+            "date": 1751950400206,
+            "name": "D:\\Project Managemet System\\backend\\logs\\app-2025-07-08.log",
+            "hash": "6a588e9267cf418ee3b3a56da62b929851d09d9e7ba155ae7f1f0e0d8be52c07"
+        },
+        {
+            "date": 1751971303119,
+            "name": "D:\\Project Managemet System\\backend\\logs\\app-2025-07-08.log.1",
+            "hash": "e9037b3ac1acf257ed902095d029526d8389b6b9e8d7415dd128d17d4f0a470c"
+        },
+        {
+            "date": 1752036982814,
+            "name": "D:\\Project Managemet System\\backend\\logs\\app-2025-07-09.log",
+            "hash": "e85716526473d3d7c1528a5d5e684aedeac2c95152057b2c25e40bbcc0958d20"
+        },
+        {
+            "date": 1752209156039,
+            "name": "D:\\Project Managemet System\\backend\\logs\\app-2025-07-11.log",
+            "hash": "8f44f0f9d733e37c7a3c2f7b76ea8c717497decdf825f6921dd42375937d7d7b"
+        },
+        {
+            "date": 1752296103935,
+            "name": "D:\\Project Managemet System\\backend\\logs\\app-2025-07-12.log",
+            "hash": "bf15de7fc4344bd768fe5730d067f436698c0b027c3d74e3f575844bfb8edbd3"
+        }
+    ],
+    "hashType": "sha256"
+}

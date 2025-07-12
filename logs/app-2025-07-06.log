@@ -1,0 +1,1758 @@
+2025-07-06 20:46:22 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-07-06 20:46:22 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-07-06 20:46:23 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-07-06 20:46:23 [INFO]: [32m[1m📥 GET /api/supreme-admin/getAllStaff[22m[39m
+2025-07-06 20:46:23 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:23 [INFO]: [32m[1m📥 GET /api/supreme-admin/getProjects[22m[39m
+2025-07-06 20:46:23 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:23 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:23 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:23 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:23 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:23 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:23 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:23 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:23 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:23 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:23 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:23 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:23 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:23 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:23 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:23 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:23 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:23 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:23 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:23 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:23 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:23 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:23 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:23 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:23 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:23 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:23 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:23 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:23 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:23 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:23 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:23 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:24 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:25 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:25 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:25 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:25 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:25 [INFO]: [32m[1m📥 GET /api/supreme-admin/getAllStaff[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📥 GET /api/supreme-admin/getProjects[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:33 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:34 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:35 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:36 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:37 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:38 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:38 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:38 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:38 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:38 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:38 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:38 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:38 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:38 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:38 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:38 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:38 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:38 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:38 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:38 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:38 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:38 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:38 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:38 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:38 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:38 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:38 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:38 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:38 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:38 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:38 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:38 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:38 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:38 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:38 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:38 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:38 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:38 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:38 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:38 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:38 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:38 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:38 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:38 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:38 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:38 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:38 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:38 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:38 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:38 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:38 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:38 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:38 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:38 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:38 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:38 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:38 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:38 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:38 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:38 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:38 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:38 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:38 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:38 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:38 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:38 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:38 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:38 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:38 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:38 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:38 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:38 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:38 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:38 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:38 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:38 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:38 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:38 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:38 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:38 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:38 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:38 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:38 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:38 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:38 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:38 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:38 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:38 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:38 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:38 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:38 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:38 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:38 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:46:38 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:46:38 [INFO]: [32m[1m📥 GET /api/master-setting/getCategories[22m[39m
+2025-07-06 20:46:38 [INFO]: [32m[1m📥 GET /api/supreme-admin/getExpense[22m[39m
+2025-07-06 20:46:43 [INFO]: [32m[1m📥 GET /api/master-setting/getCategories[22m[39m
+2025-07-06 20:47:03 [INFO]: [32m[1m📥 GET /api/master-setting/getCategories[22m[39m
+2025-07-06 20:47:04 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:04 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:04 [INFO]: [32m[1m📥 GET /api/supreme-admin/getProjects[22m[39m
+2025-07-06 20:47:04 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:04 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:04 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:04 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:04 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:04 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:04 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:04 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:04 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:04 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:04 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:04 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:04 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:04 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:04 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:04 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:04 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:04 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:04 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:04 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:04 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:04 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:04 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:04 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:04 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:04 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:04 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:04 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:04 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:04 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:04 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:04 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:04 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:04 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:04 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:04 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:04 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:04 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:04 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:04 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:04 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:04 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:04 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:04 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:04 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:04 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:04 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:04 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:04 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:04 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:04 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:04 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:04 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:04 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:04 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:04 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:04 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:04 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:04 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:04 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:04 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:04 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:04 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:04 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:04 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:04 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:04 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:04 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:04 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:04 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:04 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:04 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:04 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:04 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:04 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:04 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:04 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📥 GET /api/master-setting/getPriorities[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📋 Priorities fetched successfully[22m[39m
+2025-07-06 20:47:05 [INFO]: [32m[1m📥 GET /api/supreme-admin/getAllStaff[22m[39m
+2025-07-06 21:20:01 [WARN]: [33m[1m⚠️ MongoDB connection lost. Attempting to reconnect...[22m[39m

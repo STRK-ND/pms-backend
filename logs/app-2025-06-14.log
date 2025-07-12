@@ -1,0 +1,688 @@
+2025-06-14 09:02:55 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 09:02:55 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 09:02:55 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 09:06:05 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 09:06:05 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 09:06:05 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 09:06:13 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 09:06:13 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 09:06:13 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 09:08:03 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 09:08:03 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 09:08:03 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 09:21:30 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 09:21:30 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 09:21:30 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 09:23:29 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 09:23:29 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 09:23:29 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 09:23:57 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 09:23:57 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 09:23:57 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 09:35:23 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 09:35:23 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 09:35:23 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 09:38:25 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 09:38:25 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 09:38:25 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 09:38:31 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 09:38:31 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 09:38:31 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 09:39:07 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 09:39:07 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 09:39:07 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 09:39:53 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 09:39:53 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 09:39:53 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 09:40:36 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 09:40:36 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 09:40:36 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 09:41:19 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 09:41:19 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 09:41:19 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 09:51:08 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 09:51:08 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 09:51:08 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 09:51:13 [INFO]: [32m[1m📥 POST /api/supreme-admin/login[22m[39m
+2025-06-14 09:51:13 [INFO]: [32m[1m✅ SupremeAdmin logged in successfully: supremeAdmins@gmail.com[22m[39m
+2025-06-14 09:51:49 [INFO]: [32m[1m📥 POST /api/lead/create[22m[39m
+2025-06-14 09:51:49 [INFO]: [32m[1m✅ User authenticated: undefined (Role: supremeadmin)[22m[39m
+2025-06-14 09:51:49 [INFO]: [32m[1m✅ Lead created: john.doe@example.com (ID: LEAD_8385393)[22m[39m
+2025-06-14 09:53:14 [INFO]: [32m[1m📥 POST /api/lead/create[22m[39m
+2025-06-14 09:53:14 [WARN]: [33m[1m⚠️ No token provided[22m[39m
+2025-06-14 09:53:23 [INFO]: [32m[1m📥 POST /api/lead/create[22m[39m
+2025-06-14 09:53:23 [INFO]: [32m[1m✅ User authenticated: undefined (Role: supremeadmin)[22m[39m
+2025-06-14 09:53:23 [INFO]: [32m[1m✅ Lead created: jane.smith@example.com (ID: LEAD_6756350)[22m[39m
+2025-06-14 09:56:47 [INFO]: [32m[1m📥 POST /api/user/create[22m[39m
+2025-06-14 09:56:47 [INFO]: [32m[1m✅ Verified access for: undefined (Role: supremeadmin)[22m[39m
+2025-06-14 09:56:47 [ERROR]: [31m[1m❌ Error creating user: Cannot destructure property 'name' of 'req.body' as it is undefined.[22m[39m
+2025-06-14 09:56:54 [INFO]: [32m[1m📥 POST /api/user/create[22m[39m
+2025-06-14 09:56:54 [INFO]: [32m[1m✅ Verified access for: undefined (Role: supremeadmin)[22m[39m
+2025-06-14 09:56:54 [ERROR]: [31m[1m❌ Error creating user: Illegal arguments: undefined, number[22m[39m
+2025-06-14 09:57:28 [INFO]: [32m[1m📥 POST /api/supreme-admin/login[22m[39m
+2025-06-14 09:57:28 [INFO]: [32m[1m✅ SupremeAdmin logged in successfully: supremeAdmins@gmail.com[22m[39m
+2025-06-14 09:59:38 [INFO]: [32m[1m📥 POST /api/supreme-admin/login[22m[39m
+2025-06-14 09:59:39 [INFO]: [32m[1m✅ SupremeAdmin logged in successfully: supremeAdmins@gmail.com[22m[39m
+2025-06-14 10:00:01 [INFO]: [32m[1m📥 POST /api/user/create[22m[39m
+2025-06-14 10:00:01 [WARN]: [33m[1m⚠️ No token provided[22m[39m
+2025-06-14 10:00:15 [INFO]: [32m[1m📥 POST /api/user/create[22m[39m
+2025-06-14 10:00:15 [WARN]: [33m[1m⚠️ No token provided[22m[39m
+2025-06-14 10:01:52 [INFO]: [32m[1m📥 POST /api/supreme-admin/login[22m[39m
+2025-06-14 10:01:52 [INFO]: [32m[1m✅ SupremeAdmin logged in successfully: supremeAdmins@gmail.com[22m[39m
+2025-06-14 10:02:12 [INFO]: [32m[1m📥 POST /api/user/create[22m[39m
+2025-06-14 10:02:12 [INFO]: [32m[1m✅ Verified access for: undefined (Role: supremeadmin)[22m[39m
+2025-06-14 10:02:12 [ERROR]: [31m[1m❌ Error creating user: Illegal arguments: undefined, number[22m[39m
+2025-06-14 10:03:50 [INFO]: [32m[1m📥 POST /api/user/create[22m[39m
+2025-06-14 10:03:50 [INFO]: [32m[1m✅ Verified access for: undefined (Role: supremeadmin)[22m[39m
+2025-06-14 10:03:50 [ERROR]: [31m[1m❌ Error creating user: Illegal arguments: undefined, number[22m[39m
+2025-06-14 10:06:35 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 10:06:35 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 10:06:35 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 10:07:25 [INFO]: [32m[1m📥 POST /api/user/create[22m[39m
+2025-06-14 10:07:25 [INFO]: [32m[1m✅ Verified access for: undefined (Role: supremeadmin)[22m[39m
+2025-06-14 10:07:25 [ERROR]: [31m[1m❌ Error creating user: Illegal arguments: undefined, number[22m[39m
+2025-06-14 10:08:23 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 10:08:23 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 10:08:23 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 10:08:31 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 10:08:31 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 10:08:32 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 10:08:33 [INFO]: [32m[1m📥 POST /api/user/create[22m[39m
+2025-06-14 10:08:33 [INFO]: [32m[1m✅ Verified access for: undefined (Role: supremeadmin)[22m[39m
+2025-06-14 10:08:33 [ERROR]: [31m[1m❌ Error creating user: Illegal arguments: undefined, number[22m[39m
+2025-06-14 10:13:19 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 10:13:19 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 10:13:19 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 10:13:23 [INFO]: [32m[1m📥 POST /api/user/create[22m[39m
+2025-06-14 10:13:23 [INFO]: [32m[1m✅ Verified access for: undefined (Role: supremeadmin)[22m[39m
+2025-06-14 10:13:23 [ERROR]: [31m[1m❌ Error creating user: Illegal arguments: undefined, number[22m[39m
+2025-06-14 10:13:43 [INFO]: [32m[1m📥 POST /api/user/create[22m[39m
+2025-06-14 10:13:43 [INFO]: [32m[1m✅ Verified access for: undefined (Role: supremeadmin)[22m[39m
+2025-06-14 10:13:43 [ERROR]: [31m[1m❌ Error creating user: Illegal arguments: undefined, number[22m[39m
+2025-06-14 10:15:33 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 10:15:33 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 10:15:33 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 10:15:37 [INFO]: [32m[1m📥 POST /api/user/create[22m[39m
+2025-06-14 10:15:37 [INFO]: [32m[1m✅ User authenticated: undefined (Role: supremeadmin)[22m[39m
+2025-06-14 10:15:37 [ERROR]: [31m[1m❌ Error creating user: Illegal arguments: undefined, number[22m[39m
+2025-06-14 10:18:14 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 10:18:14 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 10:18:14 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 10:21:17 [INFO]: [32m[1m📥 POST /api/user/create[22m[39m
+2025-06-14 10:21:17 [INFO]: [32m[1m✅ User authenticated: undefined (Role: supremeadmin)[22m[39m
+2025-06-14 10:21:17 [ERROR]: [31m[1m❌ Error creating user: Illegal arguments: undefined, number[22m[39m
+2025-06-14 10:25:05 [INFO]: [32m[1m📥 POST /api/user/create[22m[39m
+2025-06-14 10:25:05 [INFO]: [32m[1m✅ User authenticated: undefined (Role: supremeadmin)[22m[39m
+2025-06-14 10:25:05 [ERROR]: [31m[1m❌ Error creating user: Illegal arguments: undefined, number[22m[39m
+2025-06-14 10:28:16 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 10:28:16 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 10:28:16 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 10:28:21 [INFO]: [32m[1m📥 POST /api/user/create[22m[39m
+2025-06-14 10:28:21 [INFO]: [32m[1m✅ User authenticated: undefined (Role: supremeadmin)[22m[39m
+2025-06-14 10:28:21 [ERROR]: [31m[1m❌ Error creating user: Illegal arguments: undefined, number[22m[39m
+2025-06-14 10:28:55 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 10:28:55 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 10:28:55 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 10:29:00 [INFO]: [32m[1m📥 POST /api/user/create[22m[39m
+2025-06-14 10:29:00 [INFO]: [32m[1m✅ User authenticated: undefined (Role: supremeadmin)[22m[39m
+2025-06-14 10:29:01 [ERROR]: [31m[1m❌ Error creating user: Illegal arguments: undefined, number[22m[39m
+2025-06-14 10:29:48 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 10:29:48 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 10:29:48 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 10:29:51 [INFO]: [32m[1m📥 POST /api/user/create[22m[39m
+2025-06-14 10:29:51 [INFO]: [32m[1m✅ User authenticated: undefined (Role: supremeadmin)[22m[39m
+2025-06-14 10:29:51 [ERROR]: [31m[1m❌ Error creating user: Illegal arguments: undefined, number[22m[39m
+2025-06-14 14:18:33 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 14:18:33 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 14:18:34 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 14:18:39 [INFO]: [32m[1m📥 POST /api/user/create[22m[39m
+2025-06-14 14:18:39 [INFO]: [32m[1m✅ User authenticated: undefined (Role: supremeadmin)[22m[39m
+2025-06-14 14:18:39 [ERROR]: [31m[1m❌ Error creating user: Illegal arguments: undefined, number[22m[39m
+2025-06-14 14:22:43 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 14:22:43 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 14:22:43 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 14:22:45 [INFO]: [32m[1m📥 POST /api/user/create[22m[39m
+2025-06-14 14:22:45 [INFO]: [32m[1m✅ User authenticated: undefined (Role: supremeadmin)[22m[39m
+2025-06-14 14:22:45 [ERROR]: [31m[1m❌ Error creating user: Illegal arguments: undefined, number[22m[39m
+2025-06-14 14:22:54 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 14:22:54 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 14:22:54 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 17:23:08 [WARN]: [33m[1m⚠️ MongoDB connection lost. Attempting to reconnect...[22m[39m
+2025-06-14 18:37:20 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 18:37:20 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 18:37:20 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 18:37:26 [INFO]: [32m[1m📥 POST /api/user/create[22m[39m
+2025-06-14 18:37:26 [INFO]: [32m[1m✅ User authenticated: undefined (Role: supremeadmin)[22m[39m
+2025-06-14 18:37:26 [ERROR]: [31m[1m❌ Error creating user: Illegal arguments: undefined, number[22m[39m
+2025-06-14 18:45:07 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 18:45:07 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 18:45:07 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 18:45:12 [INFO]: [32m[1m📥 POST /api/user/create[22m[39m
+2025-06-14 18:45:12 [INFO]: [32m[1m✅ User authenticated: undefined (Role: supremeadmin)[22m[39m
+2025-06-14 18:45:12 [ERROR]: [31m[1m❌ Error creating user: Illegal arguments: undefined, number[22m[39m
+2025-06-14 18:46:54 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 18:46:54 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 18:46:54 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 18:47:04 [INFO]: [32m[1m📥 POST /api/supreme-admin/login[22m[39m
+2025-06-14 18:47:04 [INFO]: [32m[1m✅ SupremeAdmin logged in successfully: supremeAdmins@gmail.com[22m[39m
+2025-06-14 18:48:06 [INFO]: [32m[1m📥 POST /api/user/create[22m[39m
+2025-06-14 18:48:06 [ERROR]: [31m[1m❌ Invalid token: invalid signature[22m[39m
+2025-06-14 18:48:45 [INFO]: [32m[1m📥 POST /api/user/create[22m[39m
+2025-06-14 18:48:45 [INFO]: [32m[1m✅ User authenticated: SUPER_5448609 (Role: supremeadmin)[22m[39m
+2025-06-14 18:48:45 [ERROR]: [31m[1m❌ Error creating user: Illegal arguments: undefined, number[22m[39m
+2025-06-14 18:49:08 [INFO]: [32m[1m📥 POST /api/user/create[22m[39m
+2025-06-14 18:49:08 [INFO]: [32m[1m✅ User authenticated: SUPER_5448609 (Role: supremeadmin)[22m[39m
+2025-06-14 18:49:08 [ERROR]: [31m[1m❌ Error creating user: Illegal arguments: undefined, number[22m[39m
+2025-06-14 18:51:50 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 18:51:50 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 18:51:50 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 18:51:53 [INFO]: [32m[1m📥 POST /api/user/create[22m[39m
+2025-06-14 18:51:53 [INFO]: [32m[1m✅ User authenticated: SUPER_5448609 (Role: supremeadmin)[22m[39m
+2025-06-14 18:51:53 [ERROR]: [31m[1m❌ Error creating user: Illegal arguments: undefined, number[22m[39m
+2025-06-14 18:52:28 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 18:52:28 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 18:52:28 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 18:52:36 [INFO]: [32m[1m📥 POST /api/user/create[22m[39m
+2025-06-14 18:52:36 [INFO]: [32m[1m✅ User authenticated: SUPER_5448609 (Role: supremeadmin)[22m[39m
+2025-06-14 18:52:36 [ERROR]: [31m[1m❌ Error creating user: Illegal arguments: undefined, number[22m[39m
+2025-06-14 18:52:53 [INFO]: [32m[1m📥 POST /api/user/create[22m[39m
+2025-06-14 18:52:53 [INFO]: [32m[1m✅ User authenticated: SUPER_5448609 (Role: supremeadmin)[22m[39m
+2025-06-14 18:52:53 [WARN]: [33m[1m⚠️ Missing required fields[22m[39m
+2025-06-14 18:53:38 [INFO]: [32m[1m📥 POST /api/user/create[22m[39m
+2025-06-14 18:53:38 [INFO]: [32m[1m✅ User authenticated: SUPER_5448609 (Role: supremeadmin)[22m[39m
+2025-06-14 18:53:38 [ERROR]: [31m[1m❌ Error creating user: Illegal arguments: undefined, number[22m[39m
+2025-06-14 18:55:29 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 18:55:29 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 18:55:29 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 18:55:33 [INFO]: [32m[1m📥 POST /api/user/create[22m[39m
+2025-06-14 18:55:33 [INFO]: [32m[1m✅ User authenticated: SUPER_5448609 (Role: supremeadmin)[22m[39m
+2025-06-14 18:55:33 [ERROR]: [31m[1m❌ Error creating user: Illegal arguments: undefined, number[22m[39m
+2025-06-14 18:59:07 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 18:59:07 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 18:59:07 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 18:59:08 [INFO]: [32m[1m📥 POST /api/user/create[22m[39m
+2025-06-14 18:59:08 [INFO]: [32m[1m✅ User authenticated: SUPER_5448609 (Role: supremeadmin)[22m[39m
+2025-06-14 18:59:08 [ERROR]: [31m[1m❌ Error creating user: Illegal arguments: undefined, number[22m[39m
+2025-06-14 19:00:08 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 19:00:08 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 19:00:08 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 19:00:13 [INFO]: [32m[1m📥 POST /api/user/create[22m[39m
+2025-06-14 19:00:13 [INFO]: [32m[1m✅ User authenticated: SUPER_5448609 (Role: supremeadmin)[22m[39m
+2025-06-14 19:00:13 [WARN]: [33m[1m⚠️ Missing required fields[22m[39m
+2025-06-14 19:01:30 [INFO]: [32m[1m📥 POST /api/user/create[22m[39m
+2025-06-14 19:01:30 [INFO]: [32m[1m✅ User authenticated: SUPER_5448609 (Role: supremeadmin)[22m[39m
+2025-06-14 19:01:30 [WARN]: [33m[1m⚠️ Unauthorized: Missing creator identity[22m[39m
+2025-06-14 19:02:13 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 19:02:13 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 19:02:13 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 19:02:26 [INFO]: [32m[1m📥 POST /api/supreme-admin/login[22m[39m
+2025-06-14 19:02:26 [INFO]: [32m[1m✅ SupremeAdmin logged in successfully: supremeAdmins@gmail.com[22m[39m
+2025-06-14 19:02:47 [INFO]: [32m[1m📥 POST /api/user/create[22m[39m
+2025-06-14 19:02:47 [INFO]: [32m[1m✅ User authenticated: undefined (Role: supremeadmin)[22m[39m
+2025-06-14 19:02:47 [INFO]: [32m[1m✅ User created: john.doe@example.com (ID: USER_001)[22m[39m
+2025-06-14 19:15:38 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 19:15:38 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 19:15:38 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 19:16:06 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 19:16:06 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 19:16:06 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 19:16:18 [INFO]: [32m[1m📥 POST /api/user/create[22m[39m
+2025-06-14 19:16:18 [INFO]: [32m[1m✅ User authenticated: undefined (Role: supremeadmin)[22m[39m
+2025-06-14 19:16:18 [ERROR]: [31m[1m❌ Error creating user: Cannot access 'user_id' before initialization[22m[39m
+2025-06-14 19:16:46 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 19:16:46 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 19:16:46 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 19:16:48 [INFO]: [32m[1m📥 POST /api/user/create[22m[39m
+2025-06-14 19:16:48 [INFO]: [32m[1m✅ User authenticated: undefined (Role: supremeadmin)[22m[39m
+2025-06-14 19:16:48 [ERROR]: [31m[1m❌ Error creating user: user_id is not defined[22m[39m
+2025-06-14 19:18:12 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 19:18:12 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 19:18:12 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 19:18:13 [INFO]: [32m[1m📥 POST /api/user/create[22m[39m
+2025-06-14 19:18:13 [INFO]: [32m[1m✅ User authenticated: undefined (Role: supremeadmin)[22m[39m
+2025-06-14 19:18:13 [ERROR]: [31m[1m❌ Error creating user: Cannot access 'user_id' before initialization[22m[39m
+2025-06-14 19:19:41 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 19:19:41 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 19:19:41 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 19:19:43 [INFO]: [32m[1m📥 POST /api/user/create[22m[39m
+2025-06-14 19:19:43 [INFO]: [32m[1m✅ User authenticated: undefined (Role: supremeadmin)[22m[39m
+2025-06-14 19:19:43 [ERROR]: [31m[1m❌ Error creating user: user_id is not defined[22m[39m
+2025-06-14 19:19:58 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 19:19:58 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 19:19:58 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 19:20:00 [INFO]: [32m[1m📥 POST /api/user/create[22m[39m
+2025-06-14 19:20:00 [INFO]: [32m[1m✅ User authenticated: undefined (Role: supremeadmin)[22m[39m
+2025-06-14 19:20:00 [ERROR]: [31m[1m❌ Error creating user: Cannot access 'users_id' before initialization[22m[39m
+2025-06-14 19:20:20 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 19:20:20 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 19:20:20 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 19:20:21 [INFO]: [32m[1m📥 POST /api/user/create[22m[39m
+2025-06-14 19:20:21 [INFO]: [32m[1m✅ User authenticated: undefined (Role: supremeadmin)[22m[39m
+2025-06-14 19:20:21 [ERROR]: [31m[1m❌ Error creating user: Cannot access 'users_id' before initialization[22m[39m
+2025-06-14 19:21:50 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 19:21:50 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 19:21:50 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 19:22:09 [INFO]: [32m[1m📥 POST /api/user/create[22m[39m
+2025-06-14 19:22:09 [INFO]: [32m[1m✅ User authenticated: undefined (Role: supremeadmin)[22m[39m
+2025-06-14 19:22:09 [INFO]: [32m[1m✅ User created: john.doe@example.com (ID: USER_8134723)[22m[39m
+2025-06-14 19:23:11 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 19:23:11 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 19:23:11 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 19:23:37 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 19:23:37 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 19:23:37 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 19:24:47 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 19:24:47 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 19:24:47 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 19:24:55 [INFO]: [32m[1m📥 POST /api/user/create[22m[39m
+2025-06-14 19:24:55 [INFO]: [32m[1m✅ User authenticated: undefined (Role: supremeadmin)[22m[39m
+2025-06-14 19:24:55 [INFO]: [32m[1m✅ User created: john.doe@example.com (ID: USER_1387356)[22m[39m
+2025-06-14 19:32:39 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 19:32:39 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 19:32:39 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 19:33:43 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 19:33:43 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 19:33:43 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 19:34:22 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 19:34:22 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 19:34:22 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 19:35:13 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 19:35:13 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 19:35:13 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 19:35:36 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 19:35:36 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 19:35:36 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 19:36:44 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 19:36:44 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 19:36:44 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 19:36:57 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 19:36:57 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 19:36:57 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 19:39:16 [INFO]: [32m[1m📥 POST /api/super-admin/login[22m[39m
+2025-06-14 19:39:16 [INFO]: [32m[1m✅ SuperAdmin logged in successfully: superadmin@gmail.com[22m[39m
+2025-06-14 19:40:41 [INFO]: [32m[1m📥 POST /api/lead/assign[22m[39m
+2025-06-14 19:40:41 [INFO]: [32m[1m✅ User authenticated: undefined (Role: superadmin)[22m[39m
+2025-06-14 19:40:41 [WARN]: [33m[1m⚠️ User not found: USER_1387356[22m[39m
+2025-06-14 19:41:08 [INFO]: [32m[1m📥 POST /api/lead/assign[22m[39m
+2025-06-14 19:41:08 [INFO]: [32m[1m✅ User authenticated: undefined (Role: superadmin)[22m[39m
+2025-06-14 19:41:08 [WARN]: [33m[1m⚠️ Missing lead_id or user_id[22m[39m
+2025-06-14 19:41:52 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 19:41:52 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 19:41:52 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 19:41:54 [INFO]: [32m[1m📥 POST /api/lead/assign[22m[39m
+2025-06-14 19:41:54 [INFO]: [32m[1m✅ User authenticated: undefined (Role: superadmin)[22m[39m
+2025-06-14 19:41:54 [INFO]: [32m[1m✅ Lead LEAD_8385393 assigned to User USER_1387356[22m[39m
+2025-06-14 19:46:32 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 19:46:32 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 19:46:32 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 20:10:44 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 20:10:44 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 20:10:44 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 20:13:52 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 20:13:52 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 20:13:52 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 20:18:15 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 20:18:15 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 20:18:15 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 20:21:24 [INFO]: [32m[1m📥 POST /api/user/login[22m[39m
+2025-06-14 20:21:24 [WARN]: [33m[1m⚠️ No token provided[22m[39m
+2025-06-14 20:22:18 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 20:22:18 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 20:22:18 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 20:22:19 [INFO]: [32m[1m📥 POST /api/user/login[22m[39m
+2025-06-14 20:22:19 [INFO]: [32m[1m✅ User logged in successfully: john.doe@example.com[22m[39m
+2025-06-14 20:23:48 [INFO]: [32m[1m📥 GET /api/lead/assign[22m[39m
+2025-06-14 20:23:48 [WARN]: [33m[1m⚠️ Insufficient role: user attempted access[22m[39m
+2025-06-14 20:25:26 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 20:25:26 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 20:25:26 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 20:25:27 [INFO]: [32m[1m📥 GET /api/lead/assign[22m[39m
+2025-06-14 20:25:27 [WARN]: [33m[1m⚠️ Insufficient role: user attempted access[22m[39m
+2025-06-14 20:26:21 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 20:26:21 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 20:26:21 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 20:26:23 [INFO]: [32m[1m📥 GET /api/lead/assign[22m[39m
+2025-06-14 20:26:23 [WARN]: [33m[1m⚠️ Insufficient role: user attempted access[22m[39m
+2025-06-14 20:26:41 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 20:26:41 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 20:26:42 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 20:26:45 [INFO]: [32m[1m📥 GET /api/lead/assign[22m[39m
+2025-06-14 20:26:45 [WARN]: [33m[1m⚠️ Insufficient role: user attempted access[22m[39m
+2025-06-14 20:27:41 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 20:27:41 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 20:27:41 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 20:27:44 [INFO]: [32m[1m📥 GET /api/lead/assign[22m[39m
+2025-06-14 20:27:44 [WARN]: [33m[1m⚠️ Insufficient role: user attempted access[22m[39m
+2025-06-14 20:29:03 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 20:29:03 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 20:29:03 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 20:29:07 [INFO]: [32m[1m📥 GET /api/lead/assign[22m[39m
+2025-06-14 20:29:07 [WARN]: [33m[1m⚠️ Insufficient role: user attempted access[22m[39m
+2025-06-14 20:30:01 [INFO]: [32m[1m📥 GET /api/lead/USER_1387356[22m[39m
+2025-06-14 20:30:01 [WARN]: [33m[1m⚠️ Insufficient role: user attempted access[22m[39m
+2025-06-14 20:30:24 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 20:30:24 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 20:30:24 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 20:30:26 [INFO]: [32m[1m📥 GET /api/lead/USER_1387356[22m[39m
+2025-06-14 20:30:26 [WARN]: [33m[1m⚠️ Insufficient role: user attempted access[22m[39m
+2025-06-14 20:31:13 [INFO]: [32m[1m📥 GET /api/lead/USER_1387356[22m[39m
+2025-06-14 20:31:13 [WARN]: [33m[1m⚠️ No token provided[22m[39m
+2025-06-14 20:31:19 [INFO]: [32m[1m📥 GET /api/lead/USER_1387356[22m[39m
+2025-06-14 20:31:19 [WARN]: [33m[1m⚠️ No token provided[22m[39m
+2025-06-14 20:32:04 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 20:32:04 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 20:32:04 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 20:32:10 [INFO]: [32m[1m📥 GET /api/lead/USER_1387356[22m[39m
+2025-06-14 20:32:10 [WARN]: [33m[1m⚠️ No token provided[22m[39m
+2025-06-14 20:39:27 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 20:39:27 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 20:39:27 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 20:39:45 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 20:39:45 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 20:39:45 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 20:40:39 [INFO]: [32m[1m📥 POST /api/lead/assign[22m[39m
+2025-06-14 20:40:39 [INFO]: [32m[1m✅ User authenticated: undefined (Role: superadmin)[22m[39m
+2025-06-14 20:40:39 [ERROR]: [31m[1m❌ Error assigning lead: Lead validation failed: createdBy: Path `createdBy` is required.[22m[39m
+2025-06-14 20:42:54 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 20:42:54 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 20:42:54 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 20:42:55 [INFO]: [32m[1m📥 POST /api/lead/assign[22m[39m
+2025-06-14 20:42:55 [INFO]: [32m[1m✅ User authenticated: undefined (Role: superadmin)[22m[39m
+2025-06-14 20:42:55 [INFO]: [32m[1m✅ Lead LEAD_6756350 assigned to User USER_1387356[22m[39m
+2025-06-14 20:43:36 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 20:43:36 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 20:43:36 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 20:44:03 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 20:44:03 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 20:44:03 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 20:44:38 [INFO]: [32m[1m📥 POST /api/lead/assign[22m[39m
+2025-06-14 20:44:38 [INFO]: [32m[1m✅ User authenticated: undefined (Role: superadmin)[22m[39m
+2025-06-14 20:44:38 [ERROR]: [31m[1m❌ Error assigning lead: Lead validation failed: createdBy: Path `createdBy` is required.[22m[39m
+2025-06-14 20:45:33 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 20:45:33 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 20:45:33 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 20:46:42 [INFO]: [32m[1m📥 GET /api/lead/USER_1387356[22m[39m
+2025-06-14 20:46:42 [WARN]: [33m[1m⚠️ No token provided[22m[39m
+2025-06-14 20:47:03 [INFO]: [32m[1m📥 GET /api/user/USER_1387356[22m[39m
+2025-06-14 20:47:03 [WARN]: [33m[1m⚠️ User not found: USER_1387356[22m[39m
+2025-06-14 20:47:23 [INFO]: [32m[1m📥 GET /api/user/USER_1387356[22m[39m
+2025-06-14 20:47:23 [WARN]: [33m[1m⚠️ User not found: USER_1387356[22m[39m
+2025-06-14 20:48:02 [INFO]: [32m[1m📥 GET /api/lead/USER_1387356[22m[39m
+2025-06-14 20:48:02 [WARN]: [33m[1m⚠️ No token provided[22m[39m
+2025-06-14 20:50:09 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 20:50:09 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 20:50:09 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 20:50:12 [INFO]: [32m[1m📥 GET /api/lead/USER_1387356[22m[39m
+2025-06-14 20:50:12 [WARN]: [33m[1m⚠️ No token provided[22m[39m
+2025-06-14 20:50:44 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 20:50:44 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 20:50:44 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 20:50:49 [INFO]: [32m[1m📥 GET /api/lead/USER_1387356[22m[39m
+2025-06-14 20:50:49 [WARN]: [33m[1m⚠️ No token provided[22m[39m
+2025-06-14 20:52:06 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 20:52:06 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 20:52:06 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 20:52:13 [INFO]: [32m[1m📥 GET /api/lead/USER_1387356[22m[39m
+2025-06-14 20:52:13 [WARN]: [33m[1m⚠️ No token provided[22m[39m
+2025-06-14 20:56:49 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 20:56:49 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 20:56:49 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 20:57:00 [INFO]: [32m[1m📥 GET /api/lead/USER_1387356[22m[39m
+2025-06-14 20:57:00 [WARN]: [33m[1m⚠️ No token provided[22m[39m
+2025-06-14 20:57:26 [INFO]: [32m[1m📥 POST /api/user/login[22m[39m
+2025-06-14 20:57:26 [INFO]: [32m[1m✅ User logged in successfully: john.doe@example.com[22m[39m
+2025-06-14 20:57:46 [INFO]: [32m[1m📥 GET /api/lead/USER_1387356[22m[39m
+2025-06-14 20:57:46 [WARN]: [33m[1m⚠️ Insufficient role: user attempted access[22m[39m
+2025-06-14 20:58:10 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 20:58:10 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 20:58:10 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 20:58:12 [INFO]: [32m[1m📥 GET /api/lead/USER_1387356[22m[39m
+2025-06-14 20:58:12 [WARN]: [33m[1m⚠️ Insufficient role: user attempted access[22m[39m
+2025-06-14 20:58:43 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 20:58:43 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 20:58:43 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 20:58:53 [INFO]: [32m[1m📥 GET /api/lead/USER_1387356[22m[39m
+2025-06-14 20:58:53 [WARN]: [33m[1m⚠️ Insufficient role: user attempted access[22m[39m
+2025-06-14 20:58:57 [INFO]: [32m[1m📥 GET /api/lead/USER_1387356[22m[39m
+2025-06-14 20:58:57 [WARN]: [33m[1m⚠️ Insufficient role: user attempted access[22m[39m
+2025-06-14 21:01:25 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 21:01:25 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 21:01:25 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 21:01:29 [INFO]: [32m[1m📥 GET /api/lead/USER_1387356[22m[39m
+2025-06-14 21:01:29 [WARN]: [33m[1m⚠️ Insufficient role: user attempted access[22m[39m
+2025-06-14 21:03:12 [INFO]: [32m[1m📥 GET /api/lead/USER_1387356[22m[39m
+2025-06-14 21:03:12 [WARN]: [33m[1m⚠️ Insufficient role: user attempted access[22m[39m
+2025-06-14 21:42:25 [WARN]: [33m[1m⚠️ MongoDB connection lost. Attempting to reconnect...[22m[39m
+2025-06-14 21:43:54 [INFO]: [32m[1m📥 GET /api/lead/USER_1387356[22m[39m
+2025-06-14 21:43:54 [WARN]: [33m[1m⚠️ Insufficient role: user attempted access[22m[39m
+2025-06-14 21:45:22 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 21:45:22 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 21:45:22 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 21:45:26 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 21:45:26 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 21:45:26 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 21:45:46 [INFO]: [32m[1m📥 GET /api/lead/USER_1387356[22m[39m
+2025-06-14 21:45:46 [WARN]: [33m[1m⚠️ Insufficient role: user attempted access[22m[39m
+2025-06-14 21:48:06 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 21:48:06 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 21:48:06 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 21:53:47 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 21:53:47 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 21:53:47 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 21:53:59 [INFO]: [32m[1m📥 GET /api/lead/USER_1387356[22m[39m
+2025-06-14 21:53:59 [WARN]: [33m[1m⚠️ Insufficient role: user attempted access[22m[39m
+2025-06-14 21:54:25 [INFO]: [32m[1m📥 GET /api/lead/USER_1387356[22m[39m
+2025-06-14 21:54:25 [WARN]: [33m[1m⚠️ Insufficient role: user attempted access[22m[39m
+2025-06-14 21:54:56 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 21:54:56 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 21:54:56 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 21:55:00 [INFO]: [32m[1m📥 GET /api/lead/USER_1387356[22m[39m
+2025-06-14 21:55:00 [WARN]: [33m[1m⚠️ Insufficient role: user attempted access[22m[39m
+2025-06-14 21:57:00 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 21:57:00 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 21:57:00 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 21:57:06 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 21:57:06 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 21:57:06 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 21:57:10 [INFO]: [32m[1m📥 GET /api/lead/USER_1387356[22m[39m
+2025-06-14 21:57:10 [WARN]: [33m[1m⚠️ Insufficient role: user attempted access[22m[39m
+2025-06-14 22:14:17 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 22:14:17 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 22:14:17 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 22:14:19 [INFO]: [32m[1m📥 GET /api/lead/USER_1387356[22m[39m
+2025-06-14 22:14:19 [WARN]: [33m[1m⚠️ Insufficient role: user attempted access[22m[39m
+2025-06-14 22:16:19 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 22:16:19 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 22:16:19 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 22:16:43 [INFO]: [32m[1m📥 GET /api/lead/USER_1387356[22m[39m
+2025-06-14 22:16:43 [WARN]: [33m[1m⚠️ Insufficient role: user attempted access[22m[39m
+2025-06-14 22:17:51 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 22:17:51 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 22:17:51 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 22:18:07 [INFO]: [32m[1m📥 POST /api/user/login[22m[39m
+2025-06-14 22:18:07 [WARN]: [33m[1m⚠️ No token provided[22m[39m
+2025-06-14 22:18:23 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 22:18:23 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 22:18:23 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 22:18:25 [INFO]: [32m[1m📥 POST /api/user/login[22m[39m
+2025-06-14 22:18:26 [INFO]: [32m[1m✅ User logged in successfully: john.doe@example.com[22m[39m
+2025-06-14 22:19:36 [INFO]: [32m[1m📥 GET /api/lead/USER_1387356[22m[39m
+2025-06-14 22:19:36 [WARN]: [33m[1m⚠️ Insufficient role: user attempted access[22m[39m
+2025-06-14 22:20:32 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 22:20:32 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 22:20:32 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 22:23:49 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 22:23:49 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 22:23:49 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 22:25:16 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 22:25:16 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 22:25:16 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 22:25:33 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 22:25:33 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 22:25:33 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 22:25:46 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 22:25:46 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 22:25:46 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 22:26:09 [INFO]: [32m[1m📥 GET /api/lead/USER_1387356[22m[39m
+2025-06-14 22:26:09 [WARN]: [33m[1m⚠️ Insufficient role: user attempted access[22m[39m
+2025-06-14 22:27:55 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 22:27:55 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 22:27:55 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 22:27:58 [INFO]: [32m[1m📥 GET /api/lead/USER_1387356[22m[39m
+2025-06-14 22:27:58 [WARN]: [33m[1m⚠️ Insufficient role: user attempted access[22m[39m
+2025-06-14 22:28:08 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 22:28:08 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 22:28:08 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 22:28:14 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 22:28:14 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 22:28:14 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 22:28:16 [INFO]: [32m[1m📥 GET /api/lead/USER_1387356[22m[39m
+2025-06-14 22:28:16 [WARN]: [33m[1m⚠️ Insufficient role: user attempted access[22m[39m
+2025-06-14 22:28:29 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 22:28:29 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 22:28:29 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 22:28:46 [INFO]: [32m[1m📥 GET /api/lead/USER_1387356[22m[39m
+2025-06-14 22:28:46 [WARN]: [33m[1m⚠️ Insufficient role: user attempted access[22m[39m
+2025-06-14 22:29:30 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 22:29:30 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 22:29:31 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 22:29:33 [INFO]: [32m[1m📥 GET /api/lead/USER_1387356[22m[39m
+2025-06-14 22:29:33 [WARN]: [33m[1m⚠️ Insufficient role: user attempted access[22m[39m
+2025-06-14 22:29:45 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 22:29:45 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 22:29:45 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 22:30:19 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 22:30:19 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 22:30:20 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 22:30:25 [INFO]: [32m[1m📥 GET /api/lead/USER_1387356[22m[39m
+2025-06-14 22:30:25 [WARN]: [33m[1m⚠️ Insufficient role: user attempted access[22m[39m
+2025-06-14 22:30:38 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 22:30:38 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 22:30:38 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 22:31:09 [INFO]: [32m[1m📥 GET /api/lead/USER_1387356[22m[39m
+2025-06-14 22:31:09 [WARN]: [33m[1m⚠️ No token provided[22m[39m
+2025-06-14 22:31:49 [INFO]: [32m[1m📥 GET /api/lead/USER_1387356[22m[39m
+2025-06-14 22:31:49 [WARN]: [33m[1m⚠️ Insufficient role: user attempted access[22m[39m
+2025-06-14 22:32:18 [INFO]: [32m[1m📥 POST /api/user/login[22m[39m
+2025-06-14 22:32:18 [INFO]: [32m[1m✅ User logged in successfully: john.doe@example.com[22m[39m
+2025-06-14 22:32:38 [INFO]: [32m[1m📥 GET /api/lead/USER_1387356[22m[39m
+2025-06-14 22:32:38 [WARN]: [33m[1m⚠️ Insufficient role: user attempted access[22m[39m
+2025-06-14 22:32:40 [INFO]: [32m[1m📥 GET /api/lead/USER_1387356[22m[39m
+2025-06-14 22:32:40 [WARN]: [33m[1m⚠️ Insufficient role: user attempted access[22m[39m
+2025-06-14 22:32:41 [INFO]: [32m[1m📥 GET /api/lead/USER_1387356[22m[39m
+2025-06-14 22:32:41 [WARN]: [33m[1m⚠️ Insufficient role: user attempted access[22m[39m
+2025-06-14 22:32:41 [INFO]: [32m[1m📥 GET /api/lead/USER_1387356[22m[39m
+2025-06-14 22:32:41 [WARN]: [33m[1m⚠️ Insufficient role: user attempted access[22m[39m
+2025-06-14 22:32:42 [INFO]: [32m[1m📥 GET /api/lead/USER_1387356[22m[39m
+2025-06-14 22:32:42 [WARN]: [33m[1m⚠️ Insufficient role: user attempted access[22m[39m
+2025-06-14 22:32:42 [INFO]: [32m[1m📥 GET /api/lead/USER_1387356[22m[39m
+2025-06-14 22:32:42 [WARN]: [33m[1m⚠️ Insufficient role: user attempted access[22m[39m
+2025-06-14 22:32:43 [INFO]: [32m[1m📥 GET /api/lead/USER_1387356[22m[39m
+2025-06-14 22:32:43 [WARN]: [33m[1m⚠️ Insufficient role: user attempted access[22m[39m
+2025-06-14 22:32:44 [INFO]: [32m[1m📥 GET /api/lead/USER_1387356[22m[39m
+2025-06-14 22:32:44 [WARN]: [33m[1m⚠️ Insufficient role: user attempted access[22m[39m
+2025-06-14 22:32:45 [INFO]: [32m[1m📥 GET /api/lead/USER_1387356[22m[39m
+2025-06-14 22:32:45 [WARN]: [33m[1m⚠️ Insufficient role: user attempted access[22m[39m
+2025-06-14 22:32:45 [INFO]: [32m[1m📥 GET /api/lead/USER_1387356[22m[39m
+2025-06-14 22:32:45 [WARN]: [33m[1m⚠️ Insufficient role: user attempted access[22m[39m
+2025-06-14 22:32:46 [INFO]: [32m[1m📥 GET /api/lead/USER_1387356[22m[39m
+2025-06-14 22:32:46 [WARN]: [33m[1m⚠️ Insufficient role: user attempted access[22m[39m
+2025-06-14 22:34:56 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 22:34:56 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 22:34:56 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 22:35:02 [INFO]: [32m[1m📥 GET /api/lead/USER_1387356[22m[39m
+2025-06-14 22:35:02 [WARN]: [33m[1m⚠️ Insufficient role: user attempted access[22m[39m
+2025-06-14 22:35:04 [INFO]: [32m[1m📥 GET /api/lead/USER_1387356[22m[39m
+2025-06-14 22:35:04 [WARN]: [33m[1m⚠️ Insufficient role: user attempted access[22m[39m
+2025-06-14 22:35:04 [INFO]: [32m[1m📥 GET /api/lead/USER_1387356[22m[39m
+2025-06-14 22:35:04 [WARN]: [33m[1m⚠️ Insufficient role: user attempted access[22m[39m
+2025-06-14 22:35:05 [INFO]: [32m[1m📥 GET /api/lead/USER_1387356[22m[39m
+2025-06-14 22:35:05 [WARN]: [33m[1m⚠️ Insufficient role: user attempted access[22m[39m
+2025-06-14 22:35:05 [INFO]: [32m[1m📥 GET /api/lead/USER_1387356[22m[39m
+2025-06-14 22:35:05 [WARN]: [33m[1m⚠️ Insufficient role: user attempted access[22m[39m
+2025-06-14 22:35:05 [INFO]: [32m[1m📥 GET /api/lead/USER_1387356[22m[39m
+2025-06-14 22:35:05 [WARN]: [33m[1m⚠️ Insufficient role: user attempted access[22m[39m
+2025-06-14 22:35:10 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 22:35:10 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 22:35:10 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 22:35:39 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 22:35:39 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 22:35:39 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 22:35:45 [INFO]: [32m[1m📥 GET /api/lead/USER_1387356[22m[39m
+2025-06-14 22:35:45 [WARN]: [33m[1m⚠️ Insufficient role: user attempted access[22m[39m
+2025-06-14 22:35:46 [INFO]: [32m[1m📥 GET /api/lead/USER_1387356[22m[39m
+2025-06-14 22:35:46 [WARN]: [33m[1m⚠️ Insufficient role: user attempted access[22m[39m
+2025-06-14 22:35:49 [INFO]: [32m[1m📥 GET /api/lead/USER_1387356[22m[39m
+2025-06-14 22:35:49 [WARN]: [33m[1m⚠️ Insufficient role: user attempted access[22m[39m
+2025-06-14 22:36:27 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 22:36:27 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 22:36:27 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 22:36:27 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 22:36:27 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 22:36:27 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 22:36:32 [INFO]: [32m[1m📥 GET /api/lead/USER_1387356[22m[39m
+2025-06-14 22:36:32 [WARN]: [33m[1m⚠️ Insufficient role: user attempted access[22m[39m
+2025-06-14 22:36:56 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 22:36:56 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 22:36:56 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 22:36:56 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 22:36:56 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 22:36:56 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 22:37:03 [INFO]: [32m[1m📥 GET /api/lead/USER_1387356[22m[39m
+2025-06-14 22:37:03 [WARN]: [33m[1m⚠️ Insufficient role: user attempted access[22m[39m
+2025-06-14 22:37:16 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 22:37:17 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 22:37:17 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 22:37:17 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 22:37:17 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 22:37:17 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 22:37:20 [INFO]: [32m[1m📥 GET /api/lead/USER_1387356[22m[39m
+2025-06-14 22:37:20 [WARN]: [33m[1m⚠️ Insufficient role: user attempted access[22m[39m
+2025-06-14 22:37:26 [INFO]: [32m[1m📥 GET /api/lead/USER_1387356[22m[39m
+2025-06-14 22:37:26 [WARN]: [33m[1m⚠️ Insufficient role: user attempted access[22m[39m
+2025-06-14 22:37:38 [INFO]: [32m[1m📥 GET /api/lead/USER_1387356[22m[39m
+2025-06-14 22:37:38 [WARN]: [33m[1m⚠️ Insufficient role: user attempted access[22m[39m
+2025-06-14 22:38:29 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 22:38:29 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 22:38:29 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 22:38:29 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 22:38:29 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 22:38:29 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 22:39:10 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 22:39:10 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 22:39:10 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 22:39:10 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 22:39:10 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 22:39:10 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 22:39:14 [INFO]: [32m[1m📥 GET /api/lead/USER_1387356[22m[39m
+2025-06-14 22:39:14 [INFO]: [32m[1m✅ Leads retrieved for User: USER_1387356[22m[39m
+2025-06-14 22:40:01 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 22:40:01 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 22:40:01 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 22:40:01 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 22:40:01 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 22:40:01 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 22:40:04 [INFO]: [32m[1m📥 GET /api/lead/users/USER_1387356[22m[39m
+2025-06-14 22:40:32 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 22:40:32 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 22:40:32 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 22:40:32 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 22:40:32 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 22:40:32 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 22:40:34 [INFO]: [32m[1m📥 GET /api/lead/users/USER_1387356[22m[39m
+2025-06-14 22:40:34 [INFO]: [32m[1m✅ Leads retrieved for User: USER_1387356[22m[39m
+2025-06-14 22:41:09 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 22:41:09 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 22:41:09 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 22:41:46 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 22:41:46 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 22:41:46 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 22:41:52 [INFO]: [32m[1m📥 GET /api/lead/users/USER_1387356[22m[39m
+2025-06-14 22:41:52 [INFO]: [32m[1m✅ Verified access for: unknown (Role: user)[22m[39m
+2025-06-14 22:41:52 [INFO]: [32m[1m✅ Leads retrieved for User: USER_1387356[22m[39m
+2025-06-14 22:44:11 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-14 22:44:11 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-14 22:44:11 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-14 22:44:15 [INFO]: [32m[1m📥 GET /api/lead/users/USER_1387356[22m[39m
+2025-06-14 22:44:15 [INFO]: [32m[1m✅ Verified access for: unknown (Role: user)[22m[39m
+2025-06-14 22:44:15 [INFO]: [32m[1m✅ Leads retrieved for User: USER_1387356[22m[39m

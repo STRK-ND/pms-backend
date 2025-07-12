@@ -1,0 +1,16 @@
+2025-06-15 10:15:10 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-15 10:15:10 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-15 10:15:10 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-15 20:33:48 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-15 20:33:48 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-15 20:33:48 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-15 20:44:47 [WARN]: [33m[1m⚠️ MongoDB connection lost. Attempting to reconnect...[22m[39m
+2025-06-15 20:45:18 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-15 20:45:18 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-15 20:45:18 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-15 20:46:35 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-15 20:46:35 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-15 20:46:35 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
+2025-06-15 20:49:17 [INFO]: [32m[1m🚀 Express app initialized[22m[39m
+2025-06-15 20:49:17 [INFO]: [32m[1m🚀 Server running on port 5000[22m[39m
+2025-06-15 20:49:17 [INFO]: [32m[1m✅ MongoDB Connected Successfully[22m[39m
