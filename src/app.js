@@ -14,7 +14,17 @@ const app = express();
 
 // ✅ Middleware
 app.use(express.json());
-app.use(cors());
+
+// CORS configuration
+const corsOptions = {
+  origin: process.env.NODE_ENV === 'production' 
+    ? ['https://frontend-91sxyag14-rajat-kashyaps-projects.vercel.app', 'https://lol-ijabdk6qs-rajat-kashyaps-projects.vercel.app']
+    : ['http://localhost:3000', 'http://localhost:5173'],
+  credentials: true,
+  optionsSuccessStatus: 200
+};
+
+app.use(cors(corsOptions));
 
 // ✅ Connect Database
 connectDB();
